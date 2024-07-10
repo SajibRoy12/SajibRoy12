@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C, C++, C#, DBMS, DSA, Competitive Programming, OS**
 
-- 👨‍💻 All of my projects are available at [https://sajibroy.netlify.app/](https://sajibroy.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://sajibroy.netlify.app/" target="_blank">
 
 - 📫 How to reach me **sajibroy013066@gmail.com**
 
