@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sajib Roy.</h1>
 <h3 align="center">Currently I'm pursuing BSc in computer Science and Engineering.A very passionate coder who desires to learn and explore technical and problem solving skills and has an interest in solving various algorithmic related problems</h3>
 
-
+### Coursework :
+Data structures and Algorithms, Database Management System, Design and analysis of Algorithms, System Design, OOP, Computer Architecture, Computer Networking, Operating system, Software Engineering.
 
 - 🔭 I’m currently working on **Web Design & Development**
 
